@@ -1,0 +1,16 @@
+{
+  "name": "James Allen Library",
+  "version": 1,
+  "books": [
+    {
+      "title": "From Poverty to Power",
+      "author": "James Allen",
+      "url": "https://james-allen.in1woord.nl/?text=from-poverty-to-power"
+    },
+    {
+      "title": "As a Man Thinketh",
+      "author": "James Allen",
+      "url": "https://james-allen.in1woord.nl/?text=as-a-man-thinketh"
+    }
+  ]
+}
